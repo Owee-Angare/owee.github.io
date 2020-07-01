@@ -1,5 +1,5 @@
- # Owee Angare  
- ## Manufacturing Engineering and Industrial Management with Honors in Mechatronics, COEP
+ ## Owee Angare  
+ ### Manufacturing Engineering and Industrial Management with Honors in Mechatronics, COEP
  *** *** *** 
 
 I am a fourth year student at the [College of Engineering, Pune (COEP)](https://www.coep.org.in/), pursuing a BTech degree in [Manufacturing Engineering and Industrial Management](https://www.coep.org.in/departments/production) and an Honors degree in Mechatronics. 
@@ -11,4 +11,4 @@ I interned for 6 months at Kolbenschmidt Pierburg Automotive India Pvt. Ltd (Mec
 
 ## Contact 
 ### Email: oweeangare@gmail.com 
-### College Email: angareoa17.prod@coep.ac.in    
+### College Email: angareoa17.prod@coep.ac.in      
