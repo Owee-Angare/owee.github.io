@@ -9,4 +9,5 @@ My fields of interest are Robotics, especially Bio-inspired Robotics, and applic
 I interned for 6 months (17 June to 15 December, 2019) at Kolbenschmidt Pierburg Automotive India Pvt. Ltd (Mechatronics Division), successfully completing two major projects. I also got a first-hand experience and knowledge with industrial robotics. Please visit [Internship]() for more details.       
 *** *** *** 
 
-## Contact<br> Email: oweeangare@gmail.com<br> College Email: angareoa17.prod@coep.ac.in        
+## Contact<br> 
+Email: oweeangare@gmail.com<br> College Email: angareoa17.prod@coep.ac.in        
