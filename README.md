@@ -1,5 +1,5 @@
  # Owee Angare  
- ### Production Engineering and Industrial Management with Honors in Mechatronics, COEP
+ ## Production Engineering and Industrial Management with Honors in Mechatronics, COEP
  *** *** *** 
 
 ### I am a fourth year student at the College of Engineering, Pune (COEP), pursuing a BTech degree in Production Engineering and Industrial Management and an Honors degree in Mechatronics. 
