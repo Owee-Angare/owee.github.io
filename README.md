@@ -11,4 +11,4 @@
 
 ## Contact 
 ### Email: oweeangare@gmail.com 
-### Department Email: angareoa17.prod@coep.ac.in 
+### College Email: angareoa17.prod@coep.ac.in 
