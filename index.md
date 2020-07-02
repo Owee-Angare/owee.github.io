@@ -1,4 +1,6 @@
-<img src=image.png height="130"/>
+<img src=image.png height="130"/> [<img src = owee_buttons/research.JPG width="80">]()
+[<img src = owee_buttons/courses.JPG width="80">]()
+[<img src = owee_buttons/internship.JPG width="80">]()
 
  *** *** *** 
 
