@@ -1,28 +1,83 @@
-<img src=image.png height="130"/> [<img src = owee_buttons/research.JPG width="80">](/research.md)
-[<img src = owee_buttons/courses.JPG width="80">](/courses.md)
-[<img src = owee_buttons/internship.JPG width="80">](/internship.md)
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/owee.github.io/assets/css/style.css?v=37071c8a512375ff442f5ec9b706813639a6b1d6">
+    <link rel="stylesheet" type="text/css" href="/owee.github.io/assets/css/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-## Research
-### Main fields of interest: Bio-inspired Robotics and applications of Machine Learning, Deep Learning and Image Processing in Robotics 
-*** *** *** 
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>owee.github.io</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="owee.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://owee-angare.github.io/owee.github.io/research.html" />
+<meta property="og:url" content="https://owee-angare.github.io/owee.github.io/research.html" />
+<meta property="og:site_name" content="owee.github.io" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"owee.github.io","url":"https://owee-angare.github.io/owee.github.io/research.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-## Publication 
-### •	Bio-Inspired Biped Robotic Locomotion 
-Guide: Dr. Arati V Mulay, Associate Professor, Department of Production Engineering and Industrial Management, COEP.  
-The research aimed to study the development of Bipedal Robotic Locomotion in the past two decades focusing on the design, stability, compliance and limitations of these robots in real environments. 
-### International Journal of Research and Analytical Reviews (IJRAR), June, 2020 - Volume 7 Issue 2 [[paper]](IJRAR_Paper.pdf) [[journal]](http://ijrar.org/viewfull.php?&p_id=IJRAR2002381) 
-*** *** *** 
+  </head>
 
-## Seminar 
-### A Bio-inspired Biped Robot with Variable Stiffness Actuator [[report]](https://drive.google.com/file/d/1vVGksA9xzr1cZri8NhxzX7tQ618LSRl1/view?usp=sharing) [[ppt]](https://drive.google.com/file/d/1EonLIPuudvMWjo-u6RqvTuAOEmv6GBTy/view?usp=sharing) 
-*** *** *** 
+  <body>
+  <hr>
+	  <table align="center"><tr><th>
+	<p><img src=image.png height="130"/> <a href="/owee.github.io/research.html"><img src = owee_buttons/research.JPG width="80"></a>
+         <a href="/owee.github.io/courses.html"><img src = owee_buttons/courses.JPG width="80"></a>
+         <a href="/owee.github.io/internship.html"><img src = owee_buttons/internship.JPG width="80"></a></p>
+		  </th></tr></table>
+    <div id="container">
+      <div class="inner">
 
-## Research Projects
-### Ongoing 
-### •	AERIAL VEHICLE 
-Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff. 
+        <section id="downloads" class="clearfix">
+          
+	
+        </section>
+        <hr>
+        <section id="main_content">
+          <p>&lt;img src=image.png height=”130”/&gt; <a href="/owee.github.io/research.html">&lt;img src = owee_buttons/research.JPG width=”80”&gt;</a>
+<a href="/owee.github.io/courses.html">&lt;img src = owee_buttons/courses.JPG width=”80”&gt;</a>
+<a href="/owee.github.io/internship.html">&lt;img src = owee_buttons/internship.JPG width=”80”&gt;</a></p>
 
+<h2 id="research">Research</h2>
+<h3 id="main-fields-of-interest-bio-inspired-robotics-and-applications-of-machine-learning-deep-learning-and-image-processing-in-robotics">Main fields of interest: Bio-inspired Robotics and applications of Machine Learning, Deep Learning and Image Processing in Robotics</h3>
+<hr />
 
+<h2 id="publication">Publication</h2>
+<h3 id="-bio-inspired-biped-robotic-locomotion">•	Bio-Inspired Biped Robotic Locomotion</h3>
+<p>Guide: Dr. Arati V Mulay, Associate Professor, Department of Production Engineering and Industrial Management, COEP.<br />
+The research aimed to study the development of Bipedal Robotic Locomotion in the past two decades focusing on the design, stability, compliance and limitations of these robots in real environments.</p>
+<h3 id="international-journal-of-research-and-analytical-reviews-ijrar-june-2020---volume-7-issue-2-paper-journal">International Journal of Research and Analytical Reviews (IJRAR), June, 2020 - Volume 7 Issue 2 <a href="/owee.github.io/IJRAR_Paper.pdf">[paper]</a> <a href="http://ijrar.org/viewfull.php?&amp;p_id=IJRAR2002381">[journal]</a></h3>
+<hr />
 
-## Contact<br>
-Email: oweeangare@gmail.com<br> College Email: angareoa17.prod@coep.ac.in        
+<h2 id="seminar">Seminar</h2>
+<h3 id="a-bio-inspired-biped-robot-with-variable-stiffness-actuator-report-ppt">A Bio-inspired Biped Robot with Variable Stiffness Actuator <a href="https://drive.google.com/file/d/1vVGksA9xzr1cZri8NhxzX7tQ618LSRl1/view?usp=sharing">[report]</a> <a href="https://drive.google.com/file/d/1EonLIPuudvMWjo-u6RqvTuAOEmv6GBTy/view?usp=sharing">[ppt]</a></h3>
+<hr />
+
+<h2 id="research-projects">Research Projects</h2>
+<h3 id="ongoing">Ongoing</h3>
+<h3 id="-aerial-vehicle">•	AERIAL VEHICLE</h3>
+<p>Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff.</p>
+
+<h2 id="contact">Contact<br /></h2>
+<p>Email: oweeangare@gmail.com<br /> College Email: angareoa17.prod@coep.ac.in</p>
+
+        </section>
+
+        <footer>
+        
+          owee.github.io is maintained by <a href="https://github.com/Owee-Angare">Owee-Angare</a><br>
+        
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+
+      </div>
+    </div>
+
+    
+  </body>
+</html>
