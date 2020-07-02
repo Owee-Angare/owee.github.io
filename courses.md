@@ -1,43 +1,97 @@
-<img src=image.png height="130"/> [<img src = owee_buttons/research.JPG width="80">](/research.md)
-[<img src = owee_buttons/courses.JPG width="80">](/courses.md)
-[<img src = owee_buttons/internship.JPG width="80">](/internship.md)
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/owee.github.io/assets/css/style.css?v=1c09074735d178fb652a21c71a5b2b886d0ed20f">
+    <link rel="stylesheet" type="text/css" href="/owee.github.io/assets/css/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-# Courses  
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>owee.github.io</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="owee.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://owee-angare.github.io/owee.github.io/courses.html" />
+<meta property="og:url" content="https://owee-angare.github.io/owee.github.io/courses.html" />
+<meta property="og:site_name" content="owee.github.io" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"owee.github.io","url":"https://owee-angare.github.io/owee.github.io/courses.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-## COURSERA
+  </head>
 
-### •	ROBTICS: COMPUTATIONAL MOTION PLANNING (UPenn)
-Motion planning problem solving techniques, motion planning algorithms for planning paths in multi-dimensions, configuration space obstacles and graph-based tools for motion planning, artificial potential fields for path planning
+  <body>
+    <hr>
+	  <table align="center"><tr><th>
+	<p><img src=image.png height="130"/> <a href="/owee.github.io/research.html"><img src = owee_buttons/research.JPG width="80"></a>
+         <a href="/owee.github.io/courses.html"><img src = owee_buttons/courses.JPG width="80"></a>
+         <a href="/owee.github.io/internship.html"><img src = owee_buttons/internship.JPG width="80"></a></p>
+		  </th></tr></table>
+    <div id="container">
+      <div class="inner">
 
-### •	ROBOTICS: PERCEPTION (UPenn)
-Geometry of perspective projection, computing intrinsics from vanishing points, projective transformations, visual odometry 
+        <section id="downloads" class="clearfix">
+          
+	
+        </section>
+        <hr>
+        <section id="main_content">
 
-### •	FUNDAMENTALS OF REINFORCEMENT LEARNING (University of Alberta, Alberta Machine Intelligence Institute)
-Ongoing course (To be completed by 5th July, 2020) 
-*** *** *** 
+<h1 id="courses">Courses</h1>
 
-## OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS 
+<h2 id="coursera">COURSERA</h2>
 
-### •	PYTHON TO MACHINE LEARNING 
-Basics of python programming language, introduction to machine learning, Regression, Classification and Clustering algorithms for training machine with data 
+<h3 id="-robtics-computational-motion-planning-upenn">•	ROBTICS: COMPUTATIONAL MOTION PLANNING (UPenn)</h3>
+<p>Motion planning problem solving techniques, motion planning algorithms for planning paths in multi-dimensions, configuration space obstacles and graph-based tools for motion planning, artificial potential fields for path planning</p>
 
-### •	COMPUTER VISION
-Computer vision fundamentals, Image processing – Edge detection technique, canny edge detection, facial recognition 
+<h3 id="-robotics-perception-upenn">•	ROBOTICS: PERCEPTION (UPenn)</h3>
+<p>Geometry of perspective projection, computing intrinsics from vanishing points, projective transformations, visual odometry</p>
 
-### •	DEEP LEARNING
-Tensors, loss functions, gradient descent algorithms, neural networks, sigmoid curve and its visualization, activation functions, Keras sequential model, convolutional neural network, Image recognizer for multi-class 
-*** *** *** 
+<h3 id="-fundamentals-of-reinforcement-learning-university-of-alberta-alberta-machine-intelligence-institute">•	FUNDAMENTALS OF REINFORCEMENT LEARNING (University of Alberta, Alberta Machine Intelligence Institute)</h3>
+<p>Ongoing course (To be completed by 5th July, 2020) 
+<hr>
 
-# Projects 
+<h2 id="oyesters-training-in-association-with-diazonic-labs">OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS</h2>
 
-### •	PREDICTING ACCURACY OF BAROMETRIC SENSOR FOR AERIAL VEHICLE  BY CLASSIFICATION TECHNIQUE USING K-NEAREST NEIGHBORS
-(Used the Classification technique of supervised machine learning)<br> 
-[[Blog]](https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb) 
+<h3 id="-python-to-machine-learning">•	PYTHON TO MACHINE LEARNING</h3>
+<p>Basics of python programming language, introduction to machine learning, Regression, Classification and Clustering algorithms for training machine with data</p>
 
-### •	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION 
-(Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
-*** *** *** 
+<h3 id="-computer-vision">•	COMPUTER VISION</h3>
+<p>Computer vision fundamentals, Image processing – Edge detection technique, canny edge detection, facial recognition</p>
 
-## Contact<br>
-Email: oweeangare@gmail.com<br>
-College Email: angareoa17.prod@coep.ac.in    
+<h3 id="-deep-learning">•	DEEP LEARNING</h3>
+<p>Tensors, loss functions, gradient descent algorithms, neural networks, sigmoid curve and its visualization, activation functions, Keras sequential model, convolutional neural network, Image recognizer for multi-class 
+<hr>
+
+<h1 id="projects">Projects</h1>
+
+<h3 id="-predicting-accuracy-of-barometric-sensor-for-aerial-vehicle--by-classification-technique-using-k-nearest-neighbors">•	PREDICTING ACCURACY OF BAROMETRIC SENSOR FOR AERIAL VEHICLE  BY CLASSIFICATION TECHNIQUE USING K-NEAREST NEIGHBORS</h3>
+<p>(Used the Classification technique of supervised machine learning)<br /> 
+<a href="https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/">[Blog]</a> <a href="https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb">[Complete Code]</a></p>
+
+<h3 id="-developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation">•	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION</h3>
+<p>(Neural network built in TensorFlow using high level architectural API Keras)<br /> <a href="https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/">[Blog]</a> <a href="https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb">[Complete Code]</a><br />
+<hr>
+
+<h2 id="contact">Contact<br /></h2>
+<p>Email: oweeangare@gmail.com<br />
+College Email: angareoa17.prod@coep.ac.in</p>
+
+        </section>
+
+        <footer>
+        
+          owee.github.io is maintained by <a href="https://github.com/Owee-Angare">Owee-Angare</a><br>
+        
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+
+      </div>
+    </div>
+
+    
+  </body>
+</html>
